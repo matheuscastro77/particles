@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+https://particles-delta.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
