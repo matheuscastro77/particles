@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://particles-delta.vercel.app/
+[Particles](https://particles-delta.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
